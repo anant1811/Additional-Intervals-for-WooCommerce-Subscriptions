@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Additional Intervals for WooCommerce Subscriptions
-Plugin URI: 
+Plugin URI: https://github.com/anant1811/Additional-Intervals-for-WooCommerce-Subscriptions
 Description: This plugin adds additional intervals (7, 8, 9, 10, 11, 12 and 13) for WooCommerce Subscriptions. 
 Version: 1.0.0
 Contributors: wpnomad
